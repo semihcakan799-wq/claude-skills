@@ -50,6 +50,7 @@ Load detailed guidance based on context:
 | Script Structures | `references/script-structures.md` | Drafting full scripts, ordering points, placing CTAs, auditing scripts |
 | Strategy and Algorithm | `references/strategy-and-algorithm.md` | Content plans, formats, platforms, growth or conversion diagnosis |
 | Sector Adaptation | `references/sector-adaptation.md` | Applying frameworks to a specific industry or non-English audience |
+| Visual Techniques | `references/visual-techniques.md` | B-roll, on-screen text, graphics, pacing, thumbnails, editor briefs |
 | Creator Teardown | `references/creator-teardown.md` | Modeling proven patterns or analyzing another creator's top videos |
 
 ## Hook Examples
@@ -82,6 +83,7 @@ CTA      Comment "[keyword]" for [free resource tied to this topic]
 - State the topic in the first sentence and frame it around the viewer's pain or desired outcome
 - Write hooks in second person ("you", "your"); make the viewer the main character
 - Align spoken, on-screen text, and visual hooks so each predicts the others
+- Specify a matching visual (B-roll, graphic, or on-screen text) for every beat, not just the words
 - Offer 3-5 hook variants from different archetypes so the user can test
 - Use specific numbers, names, and timeframes instead of vague quantities
 - Match the game: emotional payoff and broad references for awareness, implementable solutions for conversion

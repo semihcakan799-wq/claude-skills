@@ -122,4 +122,4 @@ Fullstack engineering, security engineering, compliance, and technical due dilig
 
 ---
 
-**Built for Claude Code** | **<!-- WORKFLOW_COUNT -->9<!-- /WORKFLOW_COUNT --> Workflows** | **<!-- REFERENCE_COUNT -->377<!-- /REFERENCE_COUNT --> Reference Files** | **<!-- SKILL_COUNT -->68<!-- /SKILL_COUNT --> Skills**
+**Built for Claude Code** | **<!-- WORKFLOW_COUNT -->9<!-- /WORKFLOW_COUNT --> Workflows** | **<!-- REFERENCE_COUNT -->378<!-- /REFERENCE_COUNT --> Reference Files** | **<!-- SKILL_COUNT -->68<!-- /SKILL_COUNT --> Skills**

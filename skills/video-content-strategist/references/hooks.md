@@ -120,6 +120,8 @@ Every video has three hooks that must say the same thing:
 4. Write the text hook that supports the visual and its reconfirmation.
 5. Watch it back. If visual, speech, visual is not instantly clear, rework before moving on.
 
+For layouts, text-hook placement, caption styling, and pacing, see `visual-techniques.md`.
+
 **Bad vs good (same creator, same channel):** "This is the future of storytelling. It's called a generative world model..." over abstract room visuals flopped (jargon, no concrete visual). "These are called life-size floor plans. You can walk through your exact home design before you build it" over people walking on projected floor plans did 15M views (concrete visual, plain words, text arrow pointing at the visual).
 
 ---

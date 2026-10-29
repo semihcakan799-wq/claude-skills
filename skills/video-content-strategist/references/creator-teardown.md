@@ -12,6 +12,7 @@ A teardown of what Kane Kallaway (YouTube @kallawaymarketing, about 480K subscri
 
 - **YouTube:** all 102 long-form uploads listed with views; transcripts of 17 top performers studied in full (13 of the top 15 by views plus four framework videos).
 - **Instagram:** 40 top @kallawaymarketing reels (education, conversion game) and 17 indexed @kallaway reels (tech news, awareness game); captions on both accounts are the full spoken scripts.
+- **Video frames:** five long-form videos and two Shorts sampled frame by frame for visual techniques (see `visual-techniques.md`).
 - Paid partnerships were flagged and excluded from organic conclusions (engagement far below normal relative to views suggests paid boosting).
 
 ### YouTube top performers
@@ -137,6 +138,9 @@ Additions that appear in stronger versions: an objection pre-empt ("Of course fl
 ---
 
 ## 7. Delivery Techniques
+
+Frame-by-frame visual findings (layouts, B-roll rules, pacing data, thumbnails) are in `visual-techniques.md`.
+
 
 - Records one line at a time to keep energy high on every sentence.
 - Consistent visual identity: the same black hoodie and cap in every video, a consistent studio, a recognizable look.

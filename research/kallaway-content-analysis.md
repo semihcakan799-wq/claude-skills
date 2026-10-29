@@ -96,6 +96,24 @@ Research behind the `video-content-strategist` skill: a study of Kane Kallaway's
 
 ---
 
+## Visual Analysis
+
+Video files were retrieved through Firecrawl's YouTube reader and sampled locally with ffmpeg: a contact sheet of the first 30 seconds at one frame per second, 36 frames spread across the full runtime, and a scene-change count (threshold 0.30, which counts new layouts, inserts, and graphics but not same-shot jump cuts). Thumbnails were reviewed from YouTube page screenshots. Frames were used for analysis only and are not stored in this repository.
+
+| Video | Format | Views | Major visual changes / min | In first 60 s | Median gap |
+|-------|--------|-------|----------------------------|---------------|-----------|
+| How To Become A Master Storyteller | Long-form | 2.9M | 3.1 | 8 | 10 s |
+| How Social Media Algorithms Actually Work | Long-form | 1.2M | 3.1 | 8 | 13.5 s |
+| Give me 15 mins, and I'll make your hooks impossible to skip | Long-form | 1.1M | 2.2 | 6 | 15 s |
+| How to Create Irresistible Hooks | Long-form | 871K | 4.9 | 8 | 8 s |
+| The Psychology of Killer Hooks | Long-form | 197K | 3.2 | 7 | 10.5 s |
+| Team of bots manages my family's health (@kallawaytech Short) | Short-form | 4.8M | 14.8 | 2 in first 10 s | 2.3 s |
+| Plastic bottles turned into cookies (@kallawaytech Short) | Short-form | 1.95M on Instagram | 29.6 | 5 in first 10 s | 1.7 s |
+
+Recurring visual techniques: a consistent dark studio with neon accents and a signature outfit; kinetic topic titles split around the head; intro sentences visualized (icon flows, the common belief shown on screen, roadmaps as numbered nodes on an object); a proof montage within 30 seconds; one visual mascot and palette per video; floating cards, phone cards, live counters, document highlights, data visualizations, and building lists; on short-form, a rotation of split screen, full B-roll with a face bubble, and full-face punch-ins with one huge word, literal B-roll for every noun, a two-line text hook at the split seam for about 3 seconds, 1-3 word captions with keyword highlight boxes, and a last frame that loops to the first. Full detail: `skills/video-content-strategist/references/visual-techniques.md`.
+
+The education account's Instagram reels could not be retrieved as video, so short-form visual findings come from the tech account's YouTube Shorts.
+
 ## Key Findings
 
 1. **Craft topics outperform money topics** on YouTube, consistent with his "one standard deviation away from the core pain" principle.
@@ -105,6 +123,7 @@ Research behind the `video-content-strategist` skill: a study of Kane Kallaway's
 5. **Free-resource keyword CTAs multiply comments** relative to paid-program keywords (median 0.48-0.71 vs 0.19 comments per like).
 6. **The tech account's organic winner** follows the full loop stack: new-reveal hook, double-down lock-in, magic box plus head fake, analogy-led mechanism, rehook, stakes, honest twist, shareable last line.
 7. **On-camera techniques** recur across videos: meta reveals (the framework used on the viewer), same-story-told-twice, good vs bad examples from his own channel, live demos on boring topics, re-chunking big lists, over-delivery beyond the title, native-embed CTAs.
+8. **Visual system:** long-form changes the visual layer every 8-15 seconds (6-8 times in the first minute); short-form every 1.5-2.5 seconds, with B-roll literally matching each spoken noun.
 
 ---
 
