@@ -91,6 +91,7 @@ A guide for choosing the right skill for your task. For installation, see [Quick
 - **[Legacy Modernizer](https://jeffallan.github.io/claude-skills/skills/specialized/legacy-modernizer/)**: Legacy code modernization, migration strategies
 - **[Embedded Systems](https://jeffallan.github.io/claude-skills/skills/specialized/embedded-systems/)**: Embedded development, IoT, firmware, real-time systems
 - **[Game Developer](https://jeffallan.github.io/claude-skills/skills/specialized/game-developer/)**: Game development, game engines, graphics, physics
+- **[Video Content Strategist](https://jeffallan.github.io/claude-skills/skills/specialized/video-content-strategist/)**: Hooks, short-form and YouTube scripts, storytelling, content strategy for any industry
 
 ### Workflow
 - **[Debugging Wizard](https://jeffallan.github.io/claude-skills/skills/quality/debugging-wizard/)**: Systematic debugging across all languages
